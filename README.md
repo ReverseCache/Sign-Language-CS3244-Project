@@ -11,6 +11,6 @@ LTCrnn:
 https://arxiv.org/abs/1811.00321
 
 HandShape Pallete:
-http://www.bu.edu/asllrp/cslgr/pages/handshape-palette.html
 
+http://www.bu.edu/asllrp/cslgr/pages/handshape-palette.html
 http://www.bu.edu/asllrp/cslgr.html
