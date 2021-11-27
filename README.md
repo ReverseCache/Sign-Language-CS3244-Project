@@ -19,6 +19,16 @@ http://www.bu.edu/asllrp/cslgr/pages/handshape-palette.html
 
 http://www.bu.edu/asllrp/cslgr.html
 
+Skeletal landmark extraction:
+
+https://google.github.io/mediapipe/
+
+Decision Tree, kNN and model evaluation:
+
+https://numpy.org/
+
+https://scikit-learn.org/stable/index.html
+
 References:
 
 https://shaoanlu.wordpress.com/2017/05/29/sgd-all-which-one-is-the-best-optimizer-dogs-vs-cats-toy-experiment/
